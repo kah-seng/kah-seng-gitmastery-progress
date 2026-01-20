@@ -34,5 +34,12 @@
       "Great work! You have successfully checked in all the actors!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768915901.793443,
+    "completed_at": 1768915903.527877,
+    "comments": [],
+    "status": "Completed"
   }
 ]
