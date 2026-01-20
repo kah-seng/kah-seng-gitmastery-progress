@@ -125,5 +125,14 @@
       "You have not committed the relevant changes yet!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768921069.504774,
+    "completed_at": 1768921075.275138,
+    "comments": [
+      "You have not committed the relevant changes yet!"
+    ],
+    "status": "Incomplete"
   }
 ]
